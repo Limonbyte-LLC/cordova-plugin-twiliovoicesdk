@@ -1,0 +1,69 @@
+{
+  "_from": "cordova-plugin-twiliovoicesdk",
+  "_id": "cordova-plugin-twiliovoicesdk@6.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-UNgJpXZHedTx3qEnlZEsSeCPrOafAkph7AucnmeyYb8/JPQIQ6flF2SWsaMv5AuVBfLhhxkji/525zJUqJDEFQ==",
+  "_location": "/cordova-plugin-twiliovoicesdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-twiliovoicesdk",
+    "name": "cordova-plugin-twiliovoicesdk",
+    "escapedName": "cordova-plugin-twiliovoicesdk",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-twiliovoicesdk/-/cordova-plugin-twiliovoicesdk-6.0.3.tgz",
+  "_shasum": "dba319b9baab09ff2f8de4709810b01124bb3604",
+  "_spec": "cordova-plugin-twiliovoicesdk",
+  "_where": "C:\\xampp\\htdocs\\Focaris\\app",
+  "author": {
+    "name": "Jeff Linwood"
+  },
+  "bugs": {
+    "url": "https://github.com/jefflinwood/cordova-plugin-twiliovoicesdk/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-twiliovoicesdk",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Use the Twilio Voice SDK for iOS or Android with Cordova/PhoneGap. Successor to Twilio Client Plugin",
+  "engines": {
+    "cordovaDependencies": {
+      "<2.5.0": {
+        "cordova": ">=6.4.0",
+        "cordova-android": ">=6.0.0",
+        "cordova-ios": ">=4.3.0"
+      },
+      ">2.5.0": {
+        "cordova": ">=7.0.0",
+        "cordova-android": ">=6.3.0",
+        "cordova-ios": ">=4.4.0"
+      }
+    }
+  },
+  "homepage": "https://github.com/jefflinwood/cordova-plugin-twiliovoicesdk#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-twiliovoicesdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefflinwood/cordova-plugin-twiliovoicesdk.git"
+  },
+  "version": "6.0.3"
+}
